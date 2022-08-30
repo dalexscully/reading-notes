@@ -11,4 +11,4 @@ Growth mindset is able to sustain develop and grow and learn from past mistakes 
 - Believe in yourself for life is a marathon not a sprint.
 - We all start for level zero and gradually growth.
 
-Link to my github profile: https://github.com/dalexscully
+Link to my github profile: [https://github.com/dalexscully](url)
