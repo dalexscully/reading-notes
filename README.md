@@ -3,7 +3,7 @@
 
 Hi my name is **Domaine**! I love <sub>Javascript</sub> and <sub>crafts</sub>.
 
-Growth mindset is able to sustain develop and growth and learn from past mistakes as life goes on.
+Growth mindset is able to sustain develop and grow and learn from past mistakes as life goes on.
 
 3 Remainders to keep myself in the growth mindset:
 
